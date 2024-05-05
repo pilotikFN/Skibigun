@@ -1,0 +1,11 @@
+.main {
+   width: 660px;
+   margin: 0 auto;
+   background: #34525b;
+}
+
+@media screen and (max-width: 720px) {
+   .main {
+      width: 100%;
+   }
+}
